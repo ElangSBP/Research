@@ -1,5 +1,5 @@
 ﻿using System;
-namespace MarsBuddy
+namespace DemoBot
 {
     public class ObservableCollection
     {
